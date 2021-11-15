@@ -1,0 +1,1 @@
+const meuArray = ["nome", 1];
